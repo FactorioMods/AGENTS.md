@@ -4,9 +4,9 @@
 
 - Source: https://github.com/FactorioMods/advanced-assembling-machine-improved
 - Portal: https://mods.factorio.com/mod/advanced-assembling-machine-improved
-- Public release confirmed in this chat: **1.0.9**, commit `1ebf036`.
-- Public ZIP SHA256: `b80259c8a55a8995936224bc1e0d69bc7c825a35a048fae9e6be955626fdcdb8`.
-- Latest installed local version: **1.0.11**, not published. ZIP SHA256 `931664080279c7cb6a6c6037b5c60384710ddd01867168d983a0bfffc4f6719f`.
+- Public release confirmed in this chat: **1.0.11**, commit `5943152`.
+- Public ZIP SHA256: `931664080279c7cb6a6c6037b5c60384710ddd01867168d983a0bfffc4f6719f`.
+- Latest installed local version: **1.0.11**, published on GitHub and the Mod Portal. ZIP SHA256 `931664080279c7cb6a6c6037b5c60384710ddd01867168d983a0bfffc4f6719f`.
 - 1.0.11 adds matte planetary weathering, contained Fulgora coil discharges, Vulcanus billet light cycling, a subtle Aquilo bed pulse, and a clean static idle image. Body and shadow shift down by .25 tiles; compact .44 scale and Alt icon placement remain.
 - All five tiers have 48 distinct final GPU-rendered frames. Factorio screenshot comparisons showed all four sampled working-state transitions changed and all four idle-machine comparisons stayed static. Neighboring moving belts were excluded from the machine comparison crop.
 - Source frames/models: `optimization-work/assembler-improved/astra-models/planet-weathered/<tier>/`. Production packer: `pack_weathered.py full`; static pilot packaging is now explicitly rejected. The 1.0.11 ZIP is installed in the player's mods directory.
@@ -47,3 +47,4 @@ Old review GIFs predate final weathering/fitting removal. Current production fra
 - Verified 1,152 rotations, 72 direct cases, four 72-case robot/blueprint groups, 48 assembler integration cases, 807 recovered loader configurations, and multiplayer join/save/reload/rejoin with the clean release ZIP.
 - Per-loader spill/discard preferences reset to the startup preference during identity migration; default is spill. Other optional integrations beyond the tested base/Space Age/Matt's set have not been independently verified.
 - See [Miniloader lessons](miniloaders-redux.md). Keep all private fixture saves/logs/credentials outside published repositories.
+
