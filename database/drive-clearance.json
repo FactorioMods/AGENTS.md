@@ -1,0 +1,11 @@
+{
+  "poses": 721,
+  "gears": 5,
+  "maximum_gear_overlap_area": 0,
+  "mesh_centre_distances": [
+    0.6,
+    0.45,
+    0.525
+  ],
+  "tooth_and_face_loop_symmetry": true
+}

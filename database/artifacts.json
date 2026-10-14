@@ -1,0 +1,132 @@
+{
+  "path_base": "Factorio user-data directory",
+  "captured": "2026-10-14",
+  "artifacts": [
+    {
+      "path": "optimization-work/assembler-improved/astra-models/build_review.py",
+      "availability": "original-workstation-only",
+      "sha256": "8e50f7d307c57cbbd8ce54537625ae3b71aa2289559207433e79f62701de8a1a",
+      "role": "private tool; review version defaults before running"
+    },
+    {
+      "path": "optimization-work/assembler-improved/astra-models/cabinet.py",
+      "availability": "original-workstation-only",
+      "sha256": "d5e6cbd3f059940b0f7d5f19858e6d27a6b3d13d415f9063c7a621aaf955278f",
+      "role": "private tool; review version defaults before running"
+    },
+    {
+      "path": "optimization-work/assembler-improved/astra-models/check_drive.py",
+      "availability": "original-workstation-only",
+      "sha256": "89abb04d86644ede502dccc0ef3599192cd2203d1260f966240d0f27c711667b",
+      "role": "private tool; review version defaults before running"
+    },
+    {
+      "path": "optimization-work/assembler-improved/astra-models/check_rigs.py",
+      "availability": "original-workstation-only",
+      "sha256": "29df79c4f5bcdb05a2aa7c828ebe77accd86258f442664604a14e16bbdc78797",
+      "role": "private tool; review version defaults before running"
+    },
+    {
+      "path": "optimization-work/assembler-improved/astra-models/compare_detail.py",
+      "availability": "original-workstation-only",
+      "sha256": "5e0728a83054a8a1204ed5b5584c09b0cfa75aeb42d0c799e3449930dacbb244",
+      "role": "private tool; review version defaults before running"
+    },
+    {
+      "path": "optimization-work/assembler-improved/astra-models/factory_models.py",
+      "availability": "original-workstation-only",
+      "sha256": "67de975603c7a1981ed05f74c57638bb5c085bf5148823c422657ff6f9084acc",
+      "role": "private tool; review version defaults before running"
+    },
+    {
+      "path": "optimization-work/assembler-improved/astra-models/finish_details.py",
+      "availability": "original-workstation-only",
+      "sha256": "bc1cd0dffb67a32ecb619bcf522127efbcdec7a445001612999ef53f11a428e4",
+      "role": "private tool; review version defaults before running"
+    },
+    {
+      "path": "optimization-work/assembler-improved/astra-models/fix_front_tabs.py",
+      "availability": "original-workstation-only",
+      "sha256": "478eac497896854a9783d3ab1707a3f8985a834bc52a27670caec59d65cc6548",
+      "role": "private tool; review version defaults before running"
+    },
+    {
+      "path": "optimization-work/assembler-improved/astra-models/industrial_detail.py",
+      "availability": "original-workstation-only",
+      "sha256": "5b531fc2ca51b2616ba7c0ae7b07a1a757a7307401017b0417d0ca0d5383b4f1",
+      "role": "private tool; review version defaults before running"
+    },
+    {
+      "path": "optimization-work/assembler-improved/astra-models/integrate.py",
+      "availability": "original-workstation-only",
+      "sha256": "d55893fa026a0e37ffba3116f4bdb55b37ea2bc0674e17ed6404a84f005eb2a9",
+      "role": "private tool; review version defaults before running"
+    },
+    {
+      "path": "optimization-work/assembler-improved/astra-models/package_and_fixture.py",
+      "availability": "original-workstation-only",
+      "sha256": "ddaed245c198ad84573ef40a2f9030ab1ab787d2140ff3b9c0b2f0e240880f21",
+      "role": "private tool; review version defaults before running"
+    },
+    {
+      "path": "optimization-work/assembler-improved/astra-models/render_design_review.py",
+      "availability": "original-workstation-only",
+      "sha256": "47f682d91633707298bbf1de1dd727ae9da719292b2bbd7db730c9616336bdd5",
+      "role": "private tool; review version defaults before running"
+    },
+    {
+      "path": "optimization-work/assembler-improved/astra-models/render_production.py",
+      "availability": "original-workstation-only",
+      "sha256": "62b3d22103bd7883c3ef3db5c0862b8e79482703274cab11347c81fa765bf853",
+      "role": "private tool; review version defaults before running"
+    },
+    {
+      "path": "optimization-work/assembler-improved/astra-models/render_shadows.py",
+      "availability": "original-workstation-only",
+      "sha256": "47d1a6f63922d5771ee08c51e06fbbd6d8384fcfbaa01b4696a5a6ac0d7e746f",
+      "role": "private tool; review version defaults before running"
+    },
+    {
+      "path": "optimization-work/assembler-improved/astra-models/update_shared_rocker.py",
+      "availability": "original-workstation-only",
+      "sha256": "09bdaf64410e02b813967680b86ebd071490aa624cc646232511eb23e12c1738",
+      "role": "private tool; review version defaults before running"
+    },
+    {
+      "path": "optimization-work/assembler-improved/astra-models/vanilla_refinement.py",
+      "availability": "original-workstation-only",
+      "sha256": "f72e7194c3dda1627fed26dab7638473291a5b1b273a0776a0fcd4847eff0773",
+      "role": "private tool; review version defaults before running"
+    },
+    {
+      "path": "optimization-work/assembler-improved/astra-models/20/factory.blend",
+      "availability": "original-workstation-only",
+      "sha256": "37fe1b922ef8d17cbe764066ba6282ca76154917b9e57c6c0c8a577e00066c94",
+      "role": "Editable tier 20 model"
+    },
+    {
+      "path": "optimization-work/assembler-improved/astra-models/40/factory.blend",
+      "availability": "original-workstation-only",
+      "sha256": "3776395e84984a87cb8cd96489e3a90e569da2eaf543f7a16dce036f0f59d1af",
+      "role": "Editable tier 40 model"
+    },
+    {
+      "path": "optimization-work/assembler-improved/astra-models/80/factory.blend",
+      "availability": "original-workstation-only",
+      "sha256": "3f56088c7eb667590b72ebff0fc3779e700af296f5da0e68ffdb4cdd68161ebb",
+      "role": "Editable tier 80 model"
+    },
+    {
+      "path": "optimization-work/assembler-improved/astra-models/160/factory.blend",
+      "availability": "original-workstation-only",
+      "sha256": "aac243e8d69cfcea1a36c02301881c4c7a8bfff8f5ef01ac1eb9ecbedfb5aa37",
+      "role": "Editable tier 160 model"
+    },
+    {
+      "path": "optimization-work/assembler-improved/astra-models/320/factory.blend",
+      "availability": "original-workstation-only",
+      "sha256": "55da6472bc5c4db2fe396f3ccf6243c5ac2d37cee2ad6962b872f05236ebfa70",
+      "role": "Editable tier 320 model"
+    }
+  ]
+}

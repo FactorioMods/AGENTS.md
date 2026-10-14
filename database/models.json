@@ -1,0 +1,16 @@
+{
+  "verified_on": "2026-10-14",
+  "entrypoint": "START-HERE.md",
+  "format": "shared Markdown and JSONL; derived SQLite",
+  "automatic_model_switching": false,
+  "models": [
+    {
+      "id": "gpt-6-astra",
+      "source": "https://developers.openai.com/api/docs/models/gpt-6-astra"
+    },
+    {
+      "id": "gpt-6.1-sol",
+      "source": "https://developers.openai.com/api/docs/models/gpt-6.1-sol"
+    }
+  ]
+}

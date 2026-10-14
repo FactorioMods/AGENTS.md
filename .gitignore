@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.sqlite-journal
+*.sqlite-wal
+*.sqlite-shm
+.env
+*.log
+*.zip
+*.blend
+*.blend1
+private/

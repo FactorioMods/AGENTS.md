@@ -1,0 +1,55 @@
+[
+  {
+    "path": "assets/references/master-20.png",
+    "kind": "concept-reference",
+    "tier": 20,
+    "sha256": "102b5d7baf8d270244315ec263893f6621252673b8a79244bdd3c0469497344c",
+    "note": "Historical intended design, not current engine rendering"
+  },
+  {
+    "path": "assets/references/master-40.png",
+    "kind": "concept-reference",
+    "tier": 40,
+    "sha256": "6c3a37cce7945d80034943a622a76d5fcacdc3b134a951fcb5c25fb66dca2091",
+    "note": "Historical intended design, not current engine rendering"
+  },
+  {
+    "path": "assets/references/master-80.png",
+    "kind": "concept-reference",
+    "tier": 80,
+    "sha256": "3757fa6a16399773faa2cbcd6d6adebe951c950a3e07a4ebf404fe1126279448",
+    "note": "Historical intended design, not current engine rendering"
+  },
+  {
+    "path": "assets/references/master-160.png",
+    "kind": "concept-reference",
+    "tier": 160,
+    "sha256": "4346980de689645a4a61ed2eacce5cb077a1bef7e112c99bfdb1f1f2793610d6",
+    "note": "Historical intended design, not current engine rendering"
+  },
+  {
+    "path": "assets/references/master-320.png",
+    "kind": "concept-reference",
+    "tier": 320,
+    "sha256": "c91ec3ff525d5a047912501e9ae46e230bc37aad24974a5970a46bad372b6ff9",
+    "note": "Historical intended design, not current engine rendering"
+  },
+  {
+    "path": "assets/evidence/alt110-adjacent.png",
+    "kind": "in-game-evidence",
+    "sha256": "ef9d4d8c8c88eec7b616612f6815b1f201de7963109e0fa63a00df4e40333a6f",
+    "note": "Version is encoded in filename; 1.0.10 supersedes 1.0.9 footprint"
+  },
+  {
+    "path": "assets/evidence/release109-gallery.png",
+    "kind": "in-game-evidence",
+    "sha256": "2176fcb32be7f08a3c61acac92de1d52c62021c0991807f725c000a3eb457de8",
+    "note": "Version is encoded in filename; 1.0.10 supersedes 1.0.9 footprint"
+  },
+  {
+    "path": "assets/references/annotated-motion-map.png",
+    "kind": "user-motion-reference",
+    "sha256": "bc9ab9f4f7340bfd4c11dfd5ccc40ef2f135b46465f9243d68139479d7f72707",
+    "note": "Blue stationary, grey sliders; subsequent fitting-removal requirements supersede artwork details"
+  }
+]

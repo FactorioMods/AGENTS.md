@@ -1,0 +1,32 @@
+[
+  {
+    "tier": 20,
+    "animated_objects": 18,
+    "animated_scale_channels": 0,
+    "loop_transform_error": 1.7484555314695172e-07
+  },
+  {
+    "tier": 40,
+    "animated_objects": 3,
+    "animated_scale_channels": 0,
+    "loop_transform_error": 1.7484555314695172e-07
+  },
+  {
+    "tier": 80,
+    "animated_objects": 14,
+    "animated_scale_channels": 0,
+    "loop_transform_error": 1.7484555314695172e-07
+  },
+  {
+    "tier": 160,
+    "animated_objects": 8,
+    "animated_scale_channels": 0,
+    "loop_transform_error": 3.4969110629390343e-07
+  },
+  {
+    "tier": 320,
+    "animated_objects": 6,
+    "animated_scale_channels": 0,
+    "loop_transform_error": 1.7484555314695172e-07
+  }
+]
