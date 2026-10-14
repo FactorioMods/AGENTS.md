@@ -55,3 +55,8 @@ Assembler 1.1.0 is published and installed; code and graphics are byte-identical
 
 
 
+
+## Miniloader hotfix — 2026-10-15
+
+Version 1.0.1, commit 020529c, fixes underground-belt placement crashes: Factorio 2.0.77 uses LuaEntity.neighbours; underground_belt_neighbour is a newer API property unavailable in this target. Verified 16 direct tier/direction cases, paired and unpaired endpoints, and eight actual robot-built endpoints in a private runtime. Robot-built events cannot be raised through script; use actual robots. Installed locally and released on GitHub; Portal upload submitted. Earlier 1.0.0 state above is historical.
+
