@@ -4,7 +4,7 @@
 
 - Source: https://github.com/FactorioMods/advanced-assembling-machine-improved
 - Portal: https://mods.factorio.com/mod/advanced-assembling-machine-improved
-- Public release confirmed in this chat: **1.1.0**, commit `40460e8`.
+- Public release confirmed in this chat: **1.1.0**, squashed commit `0b3f2b7`.
 - Public ZIP SHA256: `931664080279c7cb6a6c6037b5c60384710ddd01867168d983a0bfffc4f6719f`.
 - Latest installed local version: **1.0.11**, published on GitHub and the Mod Portal. ZIP SHA256 `931664080279c7cb6a6c6037b5c60384710ddd01867168d983a0bfffc4f6719f`.
 - 1.0.11 adds matte planetary weathering, contained Fulgora coil discharges, Vulcanus billet light cycling, a subtle Aquilo bed pulse, and a clean static idle image. Body and shadow shift down by .25 tiles; compact .44 scale and Alt icon placement remain.
@@ -51,6 +51,7 @@ Old review GIFs predate final weathering/fitting removal. Current production fra
 
 ## Release consolidation — 2026-10-15
 
-Assembler 1.1.0 is published and installed; code and graphics are byte-identical to tested 1.0.11. Only metadata and changelog changed. SHA256: 3a6d6c3f0d7c067e4c9d55358ce3fae34194804641daf7dae74c7f5025339b81. GitHub releases retain only 1.0.0 and 1.1.0. Intermediate local packages are archived outside the active mods directory. Portal removal of 1.0.1, 1.0.2, 1.0.9 and 1.0.11 is complete. Both Portal and GitHub releases/tags retain only 1.0.0 and 1.1.0; README and release notes match the consolidated changes. Git history is preserved.
+Assembler 1.1.0 is published and installed; code and graphics are byte-identical to tested 1.0.11. Only metadata and changelog changed. SHA256: 3a6d6c3f0d7c067e4c9d55358ce3fae34194804641daf7dae74c7f5025339b81. GitHub releases retain only 1.0.0 and 1.1.0. Intermediate local packages are archived outside the active mods directory. Portal removal of 1.0.1, 1.0.2, 1.0.9 and 1.0.11 is complete. Both Portal and GitHub releases/tags retain only 1.0.0 and 1.1.0; README and release notes match the consolidated changes. Main history is consolidated into two release commits: original 1.0.0 and squashed 1.1.0. The original history is backed up locally in optimization-work/assembler-release-backups/before-history-squash.bundle. The 1.1.0 tree is unchanged (6d5a2fe3687d4db1772bb22d7051bab2cbf4434c), and its tag matches main.
+
 
 
