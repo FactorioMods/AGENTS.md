@@ -1,6 +1,6 @@
 {
   "path_base": "Factorio user-data directory",
-  "captured": "2026-10-14",
+  "captured": "2026-10-15",
   "artifacts": [
     {
       "path": "optimization-work/assembler-improved/astra-models/build_review.py",
@@ -127,6 +127,54 @@
       "availability": "original-workstation-only",
       "sha256": "55da6472bc5c4db2fe396f3ccf6243c5ac2d37cee2ad6962b872f05236ebfa70",
       "role": "Editable tier 320 model"
+    },
+    {
+      "path": "optimization-work/assembler-improved/astra-models/weathered_revision.py",
+      "availability": "original-workstation-only",
+      "sha256": "a44d90ceb47baccf643e84262cc996ee0c9d1ea35b0ce536dabbd973fde17b73",
+      "role": "Current local 1.0.11 weathered production source; packaging requires full"
+    },
+    {
+      "path": "optimization-work/assembler-improved/astra-models/planet_effects.py",
+      "availability": "original-workstation-only",
+      "sha256": "0270a488c8ed2bf2c0a8d2f47b2fae1d4ba0d75f10331dc0eced146e908ff32d",
+      "role": "Current local 1.0.11 weathered production source; packaging requires full"
+    },
+    {
+      "path": "optimization-work/assembler-improved/astra-models/pack_weathered.py",
+      "availability": "original-workstation-only",
+      "sha256": "451a0dd0da9ecca7453eddaa0d5eba84f0e6172696f2e436eaeb0ecebb6cddb5",
+      "role": "Current local 1.0.11 weathered production source; packaging requires full"
+    },
+    {
+      "path": "optimization-work/assembler-improved/astra-models/planet-weathered/20/factory.blend",
+      "availability": "original-workstation-only",
+      "sha256": "db9b7e9f9ec99ec51dee770b8892c90aa6a76643b8a063ef939fc0d42420c2e3",
+      "role": "Current local 1.0.11 weathered production source; packaging requires full"
+    },
+    {
+      "path": "optimization-work/assembler-improved/astra-models/planet-weathered/40/factory.blend",
+      "availability": "original-workstation-only",
+      "sha256": "310d4eb97b0672c097828a53a2be4d19aca87c53e0313874cc7ab42bc36070c7",
+      "role": "Current local 1.0.11 weathered production source; packaging requires full"
+    },
+    {
+      "path": "optimization-work/assembler-improved/astra-models/planet-weathered/80/factory.blend",
+      "availability": "original-workstation-only",
+      "sha256": "3938cc67b2e7f692ce5d9a6099aac82e2eb9a0c5d696d91bb0dbf861f6370b04",
+      "role": "Current local 1.0.11 weathered production source; packaging requires full"
+    },
+    {
+      "path": "optimization-work/assembler-improved/astra-models/planet-weathered/160/factory.blend",
+      "availability": "original-workstation-only",
+      "sha256": "65dbdea95bfc1ce5457c7129b5ab56d57191abf69b3f0940f0f04c6d97438bee",
+      "role": "Current local 1.0.11 weathered production source; packaging requires full"
+    },
+    {
+      "path": "optimization-work/assembler-improved/astra-models/planet-weathered/320/factory.blend",
+      "availability": "original-workstation-only",
+      "sha256": "3435e1ae2a01b6f57a80e1e5f9a38b6408e754148004d5e5a104862a4c8d7a8e",
+      "role": "Current local 1.0.11 weathered production source; packaging requires full"
     }
   ]
 }

@@ -51,5 +51,11 @@
     "kind": "user-motion-reference",
     "sha256": "bc9ab9f4f7340bfd4c11dfd5ccc40ef2f135b46465f9243d68139479d7f72707",
     "note": "Blue stationary, grey sliders; subsequent fitting-removal requirements supersede artwork details"
+  },
+  {
+    "path": "assets/evidence/1.0.11-weathered-context.png",
+    "kind": "engine-evidence",
+    "sha256": "95297963b3635e9809e3c2962ef6ae77a28215d14483ec1468aac6cbb6c94098",
+    "note": "Isolated Factorio 2.0.77 scene with local 1.0.11 weathered machines, corrected standalone loaders and Alt icons. Upper row working, lower row idle."
   }
 ]

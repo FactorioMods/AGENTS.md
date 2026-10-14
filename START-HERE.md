@@ -12,4 +12,4 @@ This works as shared project context for GPT-6 Astra and GPT-6.1 Sol. It is not 
 4. Locate local model/build sources through `database/artifacts.json`; paths are relative to the player's Factorio user-data directory. Those private sources are not bundled here.
 5. Report missing assets honestly. Do not silently substitute old blockouts, stale GIFs or generated approximations.
 
-The immediate outstanding assembler work is to review/publish the **local 1.0.10** visual correction if requested. Public 1.0.9 is oversized in adjacent placement. The 1.0.10 layout check passed, but it was not a complete rerun of the 1.0.9 functional suite.
+Current local assembler version is **1.0.11** with full weathered 48-frame animations; it has not been publicly released. Miniloader (Redux) Fork **1.0.0** is published and installed. Read current state and the Miniloader lessons before changing prototypes, namespace migration or event registration.
