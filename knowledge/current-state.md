@@ -4,7 +4,7 @@
 
 - Source: https://github.com/FactorioMods/advanced-assembling-machine-improved
 - Portal: https://mods.factorio.com/mod/advanced-assembling-machine-improved
-- Public release confirmed in this chat: **1.0.11**, commit `5943152`.
+- Public release confirmed in this chat: **1.1.0**, commit `40460e8`.
 - Public ZIP SHA256: `931664080279c7cb6a6c6037b5c60384710ddd01867168d983a0bfffc4f6719f`.
 - Latest installed local version: **1.0.11**, published on GitHub and the Mod Portal. ZIP SHA256 `931664080279c7cb6a6c6037b5c60384710ddd01867168d983a0bfffc4f6719f`.
 - 1.0.11 adds matte planetary weathering, contained Fulgora coil discharges, Vulcanus billet light cycling, a subtle Aquilo bed pulse, and a clean static idle image. Body and shadow shift down by .25 tiles; compact .44 scale and Alt icon placement remain.
@@ -47,4 +47,9 @@ Old review GIFs predate final weathering/fitting removal. Current production fra
 - Verified 1,152 rotations, 72 direct cases, four 72-case robot/blueprint groups, 48 assembler integration cases, 807 recovered loader configurations, and multiplayer join/save/reload/rejoin with the clean release ZIP.
 - Per-loader spill/discard preferences reset to the startup preference during identity migration; default is spill. Other optional integrations beyond the tested base/Space Age/Matt's set have not been independently verified.
 - See [Miniloader lessons](miniloaders-redux.md). Keep all private fixture saves/logs/credentials outside published repositories.
+
+
+## Release consolidation — 2026-10-15
+
+Assembler 1.1.0 is published and installed; code and graphics are byte-identical to tested 1.0.11. Only metadata and changelog changed. SHA256: 3a6d6c3f0d7c067e4c9d55358ce3fae34194804641daf7dae74c7f5025339b81. GitHub releases retain only 1.0.0 and 1.1.0. Intermediate local packages are archived outside the active mods directory. Permanent Portal removal of 1.0.1, 1.0.2, 1.0.9 and 1.0.11 awaits action-time browser confirmation.
 
