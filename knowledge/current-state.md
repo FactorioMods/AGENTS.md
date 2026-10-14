@@ -51,5 +51,6 @@ Old review GIFs predate final weathering/fitting removal. Current production fra
 
 ## Release consolidation — 2026-10-15
 
-Assembler 1.1.0 is published and installed; code and graphics are byte-identical to tested 1.0.11. Only metadata and changelog changed. SHA256: 3a6d6c3f0d7c067e4c9d55358ce3fae34194804641daf7dae74c7f5025339b81. GitHub releases retain only 1.0.0 and 1.1.0. Intermediate local packages are archived outside the active mods directory. Permanent Portal removal of 1.0.1, 1.0.2, 1.0.9 and 1.0.11 awaits action-time browser confirmation.
+Assembler 1.1.0 is published and installed; code and graphics are byte-identical to tested 1.0.11. Only metadata and changelog changed. SHA256: 3a6d6c3f0d7c067e4c9d55358ce3fae34194804641daf7dae74c7f5025339b81. GitHub releases retain only 1.0.0 and 1.1.0. Intermediate local packages are archived outside the active mods directory. Portal removal of 1.0.1, 1.0.2, 1.0.9 and 1.0.11 is complete. Both Portal and GitHub releases/tags retain only 1.0.0 and 1.1.0; README and release notes match the consolidated changes. Git history is preserved.
+
 
