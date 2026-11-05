@@ -7,6 +7,7 @@ Checked 2026-11-05 against release metadata, source history and isolated Factori
 | [Advanced Assembly Machines: Improved](https://mods.factorio.com/mod/advanced-assembling-machine-improved) | 1.1.4 | [GitHub](https://github.com/FactorioMods/advanced-assembling-machine-improved) |
 | [Black Market 2: Updated](https://mods.factorio.com/mod/black-market-2-updated) | 1.0.4 | [GitHub](https://github.com/FactorioMods/black-market-2-updated) |
 | [Bots have Infinite Charge: Updated](https://mods.factorio.com/mod/bots-infinite-charge-updated) | 1.0.1 | [GitHub](https://github.com/FactorioMods/bots-infinite-charge-updated) |
+| [Early Foundations: Fulgora Exclusive](https://mods.factorio.com/mod/early-foundations-fulgora-exclusive) | 1.0.0 | [GitHub](https://github.com/FactorioMods/early-foundations-fulgora-exclusive) |
 | [Even Distribution: Updated](https://mods.factorio.com/mod/even-distribution-updated) | 1.0.3 | [GitHub](https://github.com/FactorioMods/even-distribution-updated) |
 | [Factorio UPS+: Updated](https://mods.factorio.com/mod/factorio-ups-updated) | 1.0.4 | [GitHub](https://github.com/FactorioMods/factorio-ups-updated) |
 | [Advanced Furnaces 2: Improved](https://mods.factorio.com/mod/advanced-furnaces-2-updated) | 1.1.3 | [GitHub](https://github.com/FactorioMods/advanced-furnaces-2-updated) |
@@ -20,13 +21,14 @@ Checked 2026-11-05 against release metadata, source history and isolated Factori
 
 ## Upstream history
 
-Authentic original histories are retained for Black Market, Even Distribution, Magic Science Chest, Matt's Logistics, Max Rate Calculator, Miniloader Redux, No Power Drains and Pollution Absorber. Max Rate Calculator retains the original monorepo ancestry followed by an explicit extraction commit.
+Authentic original histories are retained for Black Market, Early Foundations, Even Distribution, Magic Science Chest, Matt's Logistics, Max Rate Calculator, Miniloader Redux, No Power Drains and Pollution Absorber. Max Rate Calculator retains the original monorepo ancestry followed by an explicit extraction commit.
 
 Latest authentic upstream heads checked on 2026-11-05 are ancestors of these feature-series baselines. Each linked fork commit records the final implementation series. Documentation, changelog, credits and version metadata are folded into their owning fixes or features; the mod histories contain no standalone documentation commits. Original upstream history remains intact, and our series adds no fork merge commits.
 
 | Mod | Original commit | Feature-series baseline |
 | --- | --- | --- |
 | Black Market | [5b43243](https://github.com/djmango/BlackMarket2/commit/5b432436540aa6984c035cd4b38772164588960c) | [ce0b776](https://github.com/FactorioMods/black-market-2-updated/commit/ce0b776df19382a8c37c28d13fa83f8b226275b0) |
+| Early Foundations | [9f392a6](https://github.com/mothdotmonster/early-foundations/commit/9f392a669f6cb1146e9a46015e339e84f3374545) | [9f2b16e](https://github.com/FactorioMods/early-foundations-fulgora-exclusive/commit/9f2b16ec593df917dc27f9626443f92e4fce354a) |
 | Even Distribution | [ae2f7ed](https://github.com/321freddy/even-distribution/commit/ae2f7edfc5d3b4ea9bf6d998cbfe5dc18e3406ab) | [c8c9570](https://github.com/FactorioMods/even-distribution-updated/commit/c8c957003222f95f5e4baa6dccc20c92f9b4f868) |
 | Max Rate Calculator | [81775ac](https://github.com/JeffSpindler/Factorio-Mods/commit/81775ac5520bc162fac0d1d2723766cfe58cc11a) | [3d2ccb1](https://github.com/FactorioMods/max-rate-calculator-updated/commit/3d2ccb1c4146fdc6dad20ce6ee3cccec06ae340b) |
 | Magic Science Chest | [e11a227](https://github.com/bengardner/factorio-mod-magic-science-chest/commit/e11a227017cc25c41ac15e636b10c867e1ba7805) | [1fac30d](https://github.com/FactorioMods/factorio-mod-magic-science-chest-improved/commit/1fac30df968c86d26e60adcffb8ac84ed0ef5f0e) |
@@ -59,6 +61,7 @@ Native headless checks used isolated profiles and copied worlds. All 13 final re
 | Quality Unlocked from Start 1.0.2 | New-force quality technologies, tiers and recycler unlocks; unrelated automation remained locked. Native recycler crafting passed at pressures 1,000 and 4,000. |
 | Factorio UPS+ 1.0.4 | Decoration cleanup with enemy removal off/on across two surfaces and 207 new chunks per case; enemy preservation with the option off; existing first-surface daylight/enemy and global pollution behavior. |
 | Black Market 2 1.0.4 | Six cursor-built traders registered; automatic item, fluid and electricity sales/buys moved the expected goods and credited/debited money. |
+| Early Foundations: Fulgora Exclusive 1.0.0 | Five research packs and prerequisite chain without Vulcanus; unchanged research/crafting costs and foundation placement prototypes. Fresh loading and switching from Early Foundations 0.1.5 passed repeated 1,200-tick consistency runs with Any Planet Start enabled. |
 | Even Distribution 1.0.3 | Delayed drag distribution, balancing, half-distribution and fuel replacement; exact item totals and returned wood checked. |
 | Magic Science Chest 1.0.2 | Cursor-built chest; actual powered science-pack crafting and native production gates; independent unlock/refill and replenishment checked with a threshold of one. |
 | Matt's Logistics 1.0.4 | Turbo recipes crafted in ordinary and advanced assemblers and the foundry at three pressures; all eight startup toggle combinations; four underground pipe tiers moved water and both substations powered remote loads. |
