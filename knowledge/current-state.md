@@ -1,3 +1,5 @@
+> Historical evidence: for maintained release versions and routing, read [release status](release-status.md). Older checkpoints below retain their original dates and artifact identities.
+
 # Current state РІР‚вЂќ 2026-10-15
 
 ## Advanced Assembly Machines: Improved
