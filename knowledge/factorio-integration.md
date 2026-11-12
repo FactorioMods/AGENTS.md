@@ -32,3 +32,7 @@ Test direct horizontal and vertical adjacency, mixed tiers, all orientations, Al
 Current crafting speeds20/40/80/160/320, active normal-quality power375kW/750kW/1.5MW/3MW/6MW. Planet recipe gates are independent early milestones (foundry/tungsten-carbide, holmium processing, lithium processing, cryogenic plant). Do not replace starter recipes with late-game burdens during a graphical task. Check exact ingredients in current `prototypes/tiers.lua` rather than inferring from the art.
 
 Base-game progression exists without Space Age. Higher tiers must not upgrade back to the first tier. Preserve compatibility with Miniloaders Redux and Matt's Logistics; functional input/output tests matter more than visual proximity.
+
+## Small icon contrast
+
+Inspect original assets before assuming a missing-icon error: Max Rate Calculator inherited literal blue question-mark PNGs. A dark monochrome shortcut glyph can work on a light toolbar tile while disappearing on a dark sprite-button. Test both surfaces at real sizes; use separate light tool and dark shortcut artwork where appropriate. Rendered engine PNGs and in-game 24/32/64-pixel checks support readability claims; full-size generated artwork alone does not. UPS+ bulky gauge thumbnail was explicitly rejected; its replacement is a clean cog/speed/UPS+ emblem.

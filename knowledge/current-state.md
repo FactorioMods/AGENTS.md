@@ -1,6 +1,6 @@
 > Historical evidence: for maintained release versions and routing, read [release status](release-status.md). Older checkpoints below retain their original dates and artifact identities.
 
-# Current state РІР‚вЂќ 2026-10-15
+# Current state - 2026-10-15
 
 ## Advanced Assembly Machines: Improved
 
@@ -15,7 +15,7 @@
 - Additional integration: real robots built loader/belt/assembler blueprints beside vanilla plus all five machines; all 48 direction/input-output cases transferred items.
 - The following 1.0.10 notes are historical context, superseded by the installed 1.0.11 package.
 - Historical local correction: **1.0.10**, not committed/pushed/published at that handoff. Four modified files: `changelog.txt`, `data.lua`, `info.json`, `prototypes/graphics.lua`.
-- 1.0.10 changes: sprite scale .50 РІвЂ вЂ™ .44, corresponding sprite/shadow shifts and shadow scale multiplied by .88; recipe icon scale .60 and shift `{0,.65}`.
+- 1.0.10 changes: sprite scale .50 to .44, corresponding sprite/shadow shifts and shadow scale multiplied by .88; recipe icon scale .60 and shift `{0,.65}`.
 - Why: 206-pixel sheet frames at scale .50 occupied 103 pixels, exceeding a 3-tile/96-pixel width. At .44 width is 90.64 pixels. Adjacent in-game screenshot confirms a visible gap.
 - Latest check: five adjacent tiers with productivity-module recipe Alt icons, Factorio 2.0.77, dedicated runtime, normal exit. It is a layout test; the showcase machines lacked that recipe's ingredients, so it is not proof of active animation in 1.0.10.
 - 1.0.9 earlier checks: 40 retained existing machines, 45 Miniloaders Redux/Matt's combinations, 20 fluid/rotation cases, four planetary milestones, adjacent ordinary inserters, base-only save creation, active/low/idle image sequences.
@@ -51,22 +51,36 @@ Old review GIFs predate final weathering/fitting removal. Current production fra
 - See [Miniloader lessons](miniloaders-redux.md). Keep all private fixture saves/logs/credentials outside published repositories.
 
 
-## Release consolidation РІР‚вЂќ 2026-10-15
+## Release consolidation - 2026-10-15
 
 Assembler 1.1.0 is published and installed; code and graphics are byte-identical to tested 1.0.11. Only metadata and changelog changed. SHA256: 3a6d6c3f0d7c067e4c9d55358ce3fae34194804641daf7dae74c7f5025339b81. GitHub releases retain only 1.0.0 and 1.1.0. Intermediate local packages are archived outside the active mods directory. Portal removal of 1.0.1, 1.0.2, 1.0.9 and 1.0.11 is complete. Both Portal and GitHub releases/tags retain only 1.0.0 and 1.1.0; README and release notes match the consolidated changes. Main history is consolidated into two release commits: original 1.0.0 and squashed 1.1.0. The original history is backed up locally in optimization-work/assembler-release-backups/before-history-squash.bundle. The 1.1.0 tree is unchanged (6d5a2fe3687d4db1772bb22d7051bab2cbf4434c), and its tag matches main.
 
 
 
 
-## Miniloader hotfix РІР‚вЂќ 2026-10-15
+## Miniloader hotfix - 2026-10-15
 
 Version 1.0.1, commit 020529c, fixes underground-belt placement crashes: Factorio 2.0.77 uses LuaEntity.neighbours; underground_belt_neighbour is a newer API property unavailable in this target. Verified 16 direct tier/direction cases, paired and unpaired endpoints, and eight actual robot-built endpoints in a private runtime. Robot-built events cannot be raised through script; use actual robots. Installed locally and released on GitHub; Portal upload submitted. Earlier 1.0.0 state above is historical.
 
 
-## All published mods checked вЂ” 2026-10-15
+## All published mods checked - 2026-10-15
 
 See [combined API audit](all-mod-api-audit.md). Current installed/public versions: assembler 1.1.0, loader 1.0.2, pollution 1.0.3, science chest 1.0.0. Loader 1.0.2 commit 61d548d keeps connected R/Shift-R input/output toggles on a fixed axis; 1152 rotations and 72 actual robot transfer cases passed.
 
-## No Power Drains: Improved — 2026-10-15
+## No Power Drains: Improved - 2026-10-15
 
 New fork: https://github.com/FactorioMods/no-power-drains-improved, version 1.0.0, commit 5e1144d. Portal https://mods.factorio.com/mod/no-power-drains-improved (upload submitted). Exact ZIP loads on 2.0.77. Installed fork enabled; lordodin_no_drains disabled, retaining original startup setting keys. Restores ten English/Russian labels and tooltips; electric-only guard prevents usage and scan-cost changes to void/burner prototypes. 13 configurations x 32 prototype checks passed; eight powered entity types passed in a copied player-containing runtime save. Empty-world fixtures can show inactive/unpowered simulation and must not be treated as equivalent to a real player-containing save. Original Unlicense/credits retained.
+
+## Factorio 2.1 verification lessons
+
+The maintained release table is the current version owner. Factorio 2.1 checks covered native prototype/API updates, copied-save migration, actual production, physical loader/fluid connections and connected-client save/reload/rejoin. Preserve per-release engine, source and archive identities in verification records.
+
+Pollution Absorber 1.0.5 on Factorio 2.1.23 used callback-local bound methods, preserving sample order and sequential subtraction. Exact native equality passed 18,700 chunk comparisons. Balanced natural-pollution measurements improved median callback time from 0.333 to 0.211 ms/update; natural, seeded and zero-pollution workloads were measured separately. A normal-speed copied-world observation measured 150 scheduled updates with native fuel, diffusion and physics. See [pollution methods](pollution-absorber.md).
+
+Successor discovery must check alternate mod identities and optional runtime paths. A furnace successor version 0.4.3 loaded, but its wagon-transfer path failed on numeric inventory-content keys; co-enabling providers also duplicated the loader-pro remote interface. Evaluate actual wagon transfers, quality filters and event registration before replacing a fork.
+
+Max Rate Calculator 1.0.4 replaced inherited question-mark placeholders. Native 24/32/64-pixel checks covered toolbar and dark GUI backgrounds, leading to separate light tool and dark shortcut variants. See [integration guidance](factorio-integration.md).
+
+Clock-sensitive financial migration checks restore the private test clock after configuration changes. Factorio 2.1.24 UPS+ configuration changes unfreeze daytime; fixed-clock Black Market 1.0.3-to-1.0.4 checks preserved balances and inventories through upgrade, clean restart and client rejoin. See [testing guidance](testing.md).
+
+Verified history updates preserve authentic upstream commit objects, released trees, archive digests and private backup bundles before explicit atomic leased ref updates. Historical changelogs with colliding versions are retained as unparsed upstream history. See [release guidance](releases-and-organization.md).

@@ -9,3 +9,6 @@ __pycache__/
 *.blend
 *.blend1
 private/
+
+# Local per-chat continuation state.
+/.codex/tasks/
