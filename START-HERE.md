@@ -11,5 +11,6 @@ This works as shared project context for GPT-6 Astra and GPT-6.1 Sol. It is not 
 3. Inspect `assets/references/` for design intent and `assets/evidence/` for actual in-game results. They are different kinds of evidence.
 4. Locate local model/build sources through `database/artifacts.json`; paths are relative to the player's Factorio user-data directory. Those private sources are not bundled here.
 5. Report missing assets honestly. Do not silently substitute old blockouts, stale GIFs or generated approximations.
+6. For delegated work, read [the agent workbench](knowledge/agent-setup.md). The coordinator supplies an exact private workspace and [task brief](templates/agent-task.md), file ownership, pinned inputs, required claims and the expected result. Discover this session's tools and read only the skills needed for the assignment.
 
 Read the Miniloader lessons before changing prototypes, namespace migration or event registration. Record test results against exact sources and archives; a new rebase does not inherit validation from an older artifact.

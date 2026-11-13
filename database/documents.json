@@ -1,0 +1,23 @@
+[
+  ".agents/continuity.md",
+  "AGENTS.md",
+  "ATTRIBUTION.md",
+  "README.md",
+  "SOURCES.md",
+  "START-HERE.md",
+  "database/README.md",
+  "knowledge/agent-setup.md",
+  "knowledge/all-mod-api-audit.md",
+  "knowledge/current-state.md",
+  "knowledge/development-tools.md",
+  "knowledge/factorio-integration.md",
+  "knowledge/miniloaders-redux.md",
+  "knowledge/models-and-animation.md",
+  "knowledge/pollution-absorber.md",
+  "knowledge/release-status.md",
+  "knowledge/releases-and-organization.md",
+  "knowledge/testing.md",
+  "knowledge/toolchain-and-artifacts.md",
+  "templates/AGENTS.mod.md",
+  "templates/agent-task.md"
+]
