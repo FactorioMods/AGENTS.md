@@ -55,6 +55,7 @@ Native headless checks used isolated profiles and copied worlds. All 13 final re
 
 | Mod | Completed feature checks |
 | --- | --- |
+| Aquilo Thermometer 1.0.3 | Upgrade from 1.0.2; window controls and independent player preferences; vanilla and compatible modded fuel estimates; cleared selection and hidden-window save/reload; rendered panel; multiplayer join, host save/reload and client rejoin. |
 | Advanced Assembly Machines 1.1.4 | Base, Quality without Space Age, and Space Age loading; five tiers each crafted 50 gears from 100 plates. All tiers passed inserter and physical fluid connections at four cardinal rotations. |
 | Advanced Furnaces 2 1.1.3 | Five-tier smelting; cardinal inserter/fluid connections; 40 bundled-loader input/output layouts each transferred and conserved 100 items. |
 | Bots have Infinite Charge 1.0.1 | Construction robots built a chest; logistic robots delivered 100 plates; flying robots repeatedly retained zero energy in base and Space Age profiles. |
@@ -92,7 +93,7 @@ Five superseded versions were removed from GitHub releases/tags and the Mod Port
 | Adjustable Cannon Turret: Updated | 1.0.2 | [Mod Portal](https://mods.factorio.com/mod/adjustable-cannon-turret-updated) | [GitHub](https://github.com/FactorioMods/adjustable-cannon-turret-updated) |
 | Age of Production: Legacy | 1.0.0 | [Mod Portal](https://mods.factorio.com/mod/age-of-production-legacy) | [GitHub](https://github.com/FactorioMods/age-of-production-legacy) |
 | alterae's Bigger Cargo Wagons: Updated | 1.1.3 | [Mod Portal](https://mods.factorio.com/mod/bigger-cargo-wagons-updated) | [GitHub](https://github.com/FactorioMods/bigger-cargo-wagons-updated) |
-| Aquilo Thermometer: Updated | 1.0.2 | [Mod Portal](https://mods.factorio.com/mod/aquilo-thermometer-updated) | [GitHub](https://github.com/FactorioMods/aquilo-thermometer-updated) |
+| Aquilo Thermometer: Updated | 1.0.3 | [Mod Portal](https://mods.factorio.com/mod/aquilo-thermometer-updated) | [GitHub](https://github.com/FactorioMods/aquilo-thermometer-updated) |
 | Beacon Productivity and Quality for Space Age: Updated | 1.0.0 | [Mod Portal](https://mods.factorio.com/mod/rosnok-productivity-quality-beacon-updated) | [GitHub](https://github.com/FactorioMods/rosnok-productivity-quality-beacon-updated) |
 | Beautiful Bridge Railway: Updated | 1.1.2 | [Mod Portal](https://mods.factorio.com/mod/beautiful-bridge-railway-updated) | [GitHub](https://github.com/FactorioMods/beautiful-bridge-railway-updated) |
 | Better Cargo Planes: Updated | 1.3.8 | [Mod Portal](https://mods.factorio.com/mod/better-cargo-planes-updated) | [GitHub](https://github.com/FactorioMods/better-cargo-planes-updated) |
