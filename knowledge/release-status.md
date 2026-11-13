@@ -1,6 +1,6 @@
 # Maintained releases
 
-The 118 releases listed here were checked against GitHub and Mod Portal metadata on 2026-11-13 (Europe/Kiev). Source/tag targets, versions and archive digests matched the current release registry; all 118 installed archives matched their verified packages. Feature validation remains attached to its recorded engine, settings and artifacts.
+The current registry records 115 active publications and three retired compatibility forks. Versions, source refs and archive identities remain bound to their release evidence; feature validation retains its recorded engine, settings and artifacts.
 
 | Mod | Version | Source |
 | --- | --- | --- |
@@ -107,13 +107,11 @@ Five superseded versions were removed from GitHub releases/tags and the Mod Port
 | Common prototypes: Updated | 1.0.0 | [Mod Portal](https://mods.factorio.com/mod/common-prototypes-updated) | [GitHub](https://github.com/FactorioMods/common-prototypes-updated) |
 | Configurable Armour & Suits: Updated | 1.0.0 | [Mod Portal](https://mods.factorio.com/mod/configurable-armour-suits-updated) | [GitHub](https://github.com/FactorioMods/configurable-armour-suits-updated) |
 | Deadlock's Stacking Beltboxes & Compact Loaders: Updated | 2.6.1 | [Mod Portal](https://mods.factorio.com/mod/deadlock-beltboxes-loaders-factorio21) | [GitHub](https://github.com/FactorioMods/deadlock-beltboxes-loaders-factorio21) |
-| Eco-Friendly Electric Machines: Updated | 0.0.9 | [Mod Portal](https://mods.factorio.com/mod/eco-friendly-electric-machines-updated) | [GitHub](https://github.com/FactorioMods/eco-friendly-electric-machines-updated) |
 | Extended Range: Updated | 1.0.0 | [Mod Portal](https://mods.factorio.com/mod/rfm-transport-updated) | [GitHub](https://github.com/FactorioMods/rfm-transport-updated) |
 | Extraplanetary Production: Updated | 1.3.74 | [Mod Portal](https://mods.factorio.com/mod/extraplanetary-production-updated) | [GitHub](https://github.com/FactorioMods/extraplanetary-production-updated) |
 | Factorio Standard Library: Legacy Updated | 2.1.2 | [Mod Portal](https://mods.factorio.com/mod/stdlib-legacy-updated) | [GitHub](https://github.com/FactorioMods/stdlib-legacy-updated) |
 | Fallout Arsenal: Updated | 0.2.0 | [Mod Portal](https://mods.factorio.com/mod/fallout-arsenal-updated) | [GitHub](https://github.com/FactorioMods/fallout-arsenal-updated) |
 | Flare Stack: Legacy Science Recipes | 1.0.0 | [Mod Portal](https://mods.factorio.com/mod/flare-stack-legacy-science-recipes) | [GitHub](https://github.com/FactorioMods/flare-stack-legacy-science-recipes) |
-| Flow Control: Updated | 1.0.0 | [Mod Portal](https://mods.factorio.com/mod/flow-control-updated) | [GitHub](https://github.com/FactorioMods/flow-control-updated) |
 | Fluid Level Indicator: Updated | 1.0.3 | [Mod Portal](https://mods.factorio.com/mod/fluid-level-indicator-updated) | [GitHub](https://github.com/FactorioMods/fluid-level-indicator-updated) |
 | Fluid Memory Storage: Updated | 1.7.14 | [Mod Portal](https://mods.factorio.com/mod/fluid-memory-storage-updated) | [GitHub](https://github.com/FactorioMods/fluid-memory-storage-updated) |
 | Fluidless Express Belt: Updated | 1.0.0 | [Mod Portal](https://mods.factorio.com/mod/lubricantless-blue-belts-updated) | [GitHub](https://github.com/FactorioMods/lubricantless-blue-belts-updated) |
@@ -139,7 +137,7 @@ Five superseded versions were removed from GitHub releases/tags and the Mod Port
 | InfiniteTech FIXED: Updated | 1.0.0 | [Mod Portal](https://mods.factorio.com/mod/infinitetech-fixed-updated) | [GitHub](https://github.com/FactorioMods/infinitetech-fixed-updated) |
 | Inserter speed tweak: Updated | 1.0.4 | [Mod Portal](https://mods.factorio.com/mod/inserter-speed-tweak-updated) | [GitHub](https://github.com/FactorioMods/inserter-speed-tweak-updated) |
 | Intelligent Enemy: Updated | 1.0.8 | [Mod Portal](https://mods.factorio.com/mod/intelligent-enemy-updated) | [GitHub](https://github.com/FactorioMods/intelligent-enemy-updated) |
-| Intercontinental Rocketry Forked: Updated | 1.0.0 | [Mod Portal](https://mods.factorio.com/mod/intercontinental-rocketry-forked-updated) | [GitHub](https://github.com/FactorioMods/intercontinental-rocketry-forked-updated) |
+| Intercontinental Rocketry Forked: Updated | 1.0.1 | [Mod Portal](https://mods.factorio.com/mod/intercontinental-rocketry-forked-updated) | [GitHub](https://github.com/FactorioMods/intercontinental-rocketry-forked-updated) |
 | Invincible Worker Bots: Updated | 1.0.0 | [Mod Portal](https://mods.factorio.com/mod/invincible-worker-bots-updated) | [GitHub](https://github.com/FactorioMods/invincible-worker-bots-updated) |
 | Krastorio 2 Wind Turbine: Updated | 0.1.3 | [Mod Portal](https://mods.factorio.com/mod/k2-wind-turbine-updated) | [GitHub](https://github.com/FactorioMods/k2-wind-turbine-updated) |
 | Kry Safe Planets: Legacy Planet Configuration | 1.0.0 | [Mod Portal](https://mods.factorio.com/mod/kry-safe-planets-legacy-configuration) | [GitHub](https://github.com/FactorioMods/kry-safe-planets-legacy-configuration) |
@@ -157,7 +155,7 @@ Five superseded versions were removed from GitHub releases/tags and the Mod Port
 | More Quality Uses: Updated | 1.0.1 | [Mod Portal](https://mods.factorio.com/mod/more-quality-uses-updated) | [GitHub](https://github.com/FactorioMods/more-quality-uses-updated) |
 | Mythic Quality: Updated | 1.0.0 | [Mod Portal](https://mods.factorio.com/mod/mythicquality-updated) | [GitHub](https://github.com/FactorioMods/mythicquality-updated) |
 | New Game+: Updated | 1.0.0 | [Mod Portal](https://mods.factorio.com/mod/newgameplus-updated) | [GitHub](https://github.com/FactorioMods/newgameplus-updated) |
-| No More Gambling: Updated | 1.2.7 | [Mod Portal](https://mods.factorio.com/mod/no-more-gambling-updated) | [GitHub](https://github.com/FactorioMods/no-more-gambling-updated) |
+| No More Gambling: Updated | 1.2.8 | [Mod Portal](https://mods.factorio.com/mod/no-more-gambling-updated) | [GitHub](https://github.com/FactorioMods/no-more-gambling-updated) |
 | Ocean Dumping: Updated | 1.0.0 | [Mod Portal](https://mods.factorio.com/mod/oceandump-updated) | [GitHub](https://github.com/FactorioMods/oceandump-updated) |
 | Petrol-Condensation-Reload: Updated | 1.0.0 | [Mod Portal](https://mods.factorio.com/mod/petrol-condensation-reload-updated) | [GitHub](https://github.com/FactorioMods/petrol-condensation-reload-updated) |
 | Pollution is the Solution: Updated | 2.0.2 | [Mod Portal](https://mods.factorio.com/mod/pollution-is-the-solution-updated) | [GitHub](https://github.com/FactorioMods/pollution-is-the-solution-updated) |
@@ -166,7 +164,6 @@ Five superseded versions were removed from GitHub releases/tags and the Mod Port
 | Quality Effects: Updated | 1.0.0 | [Mod Portal](https://mods.factorio.com/mod/quality-effects-updated) | [GitHub](https://github.com/FactorioMods/quality-effects-updated) |
 | Quality for Biters!: Updated | 1.0.1 | [Mod Portal](https://mods.factorio.com/mod/bitershield2-updated) | [GitHub](https://github.com/FactorioMods/bitershield2-updated) |
 | Rampant Arsenal: Updated | 2.0.0 | [Mod Portal](https://mods.factorio.com/mod/rampant-arsenal-updated) | [GitHub](https://github.com/FactorioMods/rampant-arsenal-updated) |
-| Remove Asteroid Particles: Updated | 1.0.0 | [Mod Portal](https://mods.factorio.com/mod/removeasteroidparticles-updated) | [GitHub](https://github.com/FactorioMods/removeasteroidparticles-updated) |
 | Roboport Technology: Updated | 4.0.1 | [Mod Portal](https://mods.factorio.com/mod/bot-batteries-technologies-updated) | [GitHub](https://github.com/FactorioMods/bot-batteries-technologies-updated) |
 | Robots Energy Removal: Updated | 1.0.1 | [Mod Portal](https://mods.factorio.com/mod/robots-energy-removal-updated) | [GitHub](https://github.com/FactorioMods/robots-energy-removal-updated) |
 | Rocket Reusability: Updated | 1.0.0 | [Mod Portal](https://mods.factorio.com/mod/rocket-reusability-updated) | [GitHub](https://github.com/FactorioMods/rocket-reusability-updated) |
@@ -192,3 +189,23 @@ Five superseded versions were removed from GitHub releases/tags and the Mod Port
 | What Time Is It: Updated | 1.0.0 | [Mod Portal](https://mods.factorio.com/mod/whattimeisit-updated) | [GitHub](https://github.com/FactorioMods/whattimeisit-updated) |
 | Wind Turbines: Updated | 1.0.0 | [Mod Portal](https://mods.factorio.com/mod/wind-generator-gfxrestyle-updated) | [GitHub](https://github.com/FactorioMods/wind-generator-gfxrestyle-updated) |
 | 로켓격납고 무게변경 / Modify Silo Max Weight: Updated | 1.0.0 | [Mod Portal](https://mods.factorio.com/mod/modify-silo-max-weight-updated) | [GitHub](https://github.com/FactorioMods/modify-silo-max-weight-updated) |
+
+## November 13 compatibility corrections
+
+Intercontinental Rocketry Forked 1.0.1 preserves copied planets' native parent-relative origin and orbit after PlanetsLib conversion. Full prototype comparisons limited changes to the copied planets' orbit fields; saved surfaces, route lengths, platform inventories and schedules passed save/reload and real-client join/rejoin checks on Factorio 2.1.24 with PlanetsLib 2.5.2.
+
+No More Gambling 1.2.8 restores the original recycling input-cost calculation for modern recipe category arrays. Single- and multiple-category cases, generated recipe eligibility, saved-machine inventories, fluids and paid crafting state passed native checks. A real client completed synchronized play, host save/reload and rejoin. Its Legendary collector-reach limit and other quality bonuses remain unchanged.
+
+Availability checks now inspect complete original release histories and explicitly identified continuations, without a date cutoff. A Factorio 2.1 declaration does not prove API or retained-content parity. Miniloader Redux still needs the fork's connected rotation and transformed robot/ghost direction fixes. Age of Production Classic intentionally removes legacy machines and recipes that the legacy edition retains. Comyn's maintained original is suitable for compatible Space Age worlds; our fork additionally guards missing Space Age resources for base-game profiles and remains supported.
+
+Configurable Armour & Suits remains necessary for worlds using the updated Metal and Stars provider identity. Worlds without that integration can use the maintained original; do not archive a fork still needed by another supported configuration.
+
+## Retired compatibility ports
+
+| Retired fork | Maintained replacement | Archived source |
+|---|---|---|
+| Flow Control: Updated | [Flow Control 3.2.4](https://mods.factorio.com/mod/Flow%20Control) | [GitHub](https://github.com/FactorioMods/flow-control-updated) |
+| Eco-Friendly Electric Machines: Updated | [Eco-Friendly Electric Machines K2SO 0.0.9](https://mods.factorio.com/mod/eco-friendly-electric-machines-k2so) | [GitHub](https://github.com/FactorioMods/eco-friendly-electric-machines-updated) |
+| Remove Asteroid Particles: Updated | [Remove Asteroid Particles 2.1 0.0.1](https://mods.factorio.com/mod/RemoveAsteroidParticles2_1) | [GitHub](https://github.com/FactorioMods/removeasteroidparticles-updated) |
+
+The retired Portal entries point to their replacements. Their final packages and original source histories remain available for recovery.
